@@ -11,7 +11,7 @@ pipeline {
 		NEXUS_PASS = 'Soumya@1998'
 		RELEASE_REPO = 'myapp-release'
 		CENTRAL_REPO = 'myapp-central'
-		NEXUSIP = '172.31.84.118'
+		NEXUSIP = '54.210.169.208'
 		NEXUSPORT = '8081'
 		NEXUS_GRP_REPO = 'myapp-group'
         NEXUS_LOGIN = 'nexuslogin'
