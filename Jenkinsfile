@@ -14,7 +14,7 @@ pipeline {
 		NEXUSIP = '54.210.169.208'
 		NEXUSPORT = '8081'
 		NEXUS_GRP_REPO = 'myapp-group'
-        NEXUS_LOGIN = 'nexuslogin
+        NEXUS_LOGIN = 'nexuslogin'
     }
 
     stages {
